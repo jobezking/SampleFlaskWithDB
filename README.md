@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed and configured on your
 Follow these steps to set up the Flask application:
 
 1. **Clone the repository:**  
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/your-username/SampleFlaskWithDB.git  
    cd your-repo-name
 
    * *(Note: If you're creating these files locally, just create the app.py, requirements.txt, schema.sql files, and the templates directory with its HTML files in a new directory.)*  
